@@ -19,6 +19,7 @@ function RootLayout({ children }: { children: React.ReactNode }) {
       <head>
         <meta charSet="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="google-adsense-account" content="ca-pub-2409118903033446"/>
       <body className="font-bodyFont w-full bg-main-bg text-darkText">
         <Layout>
           {" "}
